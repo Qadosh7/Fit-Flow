@@ -1,0 +1,7 @@
+{
+  "name": "FitFlow AI - Ficha de Treino Inteligente",
+  "description": "Um planejador de musculação personalizado com onboarding inteligente, geração de treinos via IA e interface focada em uso mobile na academia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
